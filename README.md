@@ -2,7 +2,7 @@
 
 ![mousemove](https://github.com/user-attachments/assets/8c3617a1-fd09-4b23-9407-be8def769696)
 
-- [Demo Project](https://amirmohammadianaftah.github.io/MouseEvent/)
+- [Demo Project](https://amirmohammadianaftah.github.io/MouseEvent/)](https://amirmohammadianaftah.github.io/mousemove/)
   
 - Developed by Amir Mohammadian
 - Created - 2024-10-10
